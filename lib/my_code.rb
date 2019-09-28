@@ -5,6 +5,5 @@ end
 
 
 
-[1,2,3].map{|num
-  
+[1,2,3].map{|num| num + 1
 }
